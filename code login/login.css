@@ -1,0 +1,14 @@
+.button{
+    display: flex;
+    flex-direction: column;
+}
+.button1{
+    color: red;
+    border: none;
+    background-color: white;
+}
+.button2{
+    color: white;
+    border: none;
+    background-color: red;
+}
